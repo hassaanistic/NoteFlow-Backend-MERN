@@ -1,4 +1,4 @@
-### Kindly set up the following environment variables within the `config/config.env` file 🔎
+### Kindly set up the following environment variables within the `.env` file 🔎
 > `PORT` `PRIVATEKEY`
 > 
 # Folder Structure 🛠
